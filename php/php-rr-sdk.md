@@ -10,7 +10,6 @@ which can perfectly align with the workflow execution model.
 - [Activities](#activities)
     - [Registration](#registration)
     - [Using Annotations](#using-annotations)
-
     - [Payloads](#payloads)
     - [Process Isolation](#process-isolation)
 - [Workflows](#workflows)
